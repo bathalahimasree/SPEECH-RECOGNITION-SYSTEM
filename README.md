@@ -40,3 +40,4 @@ Through this task, I gained experience working with multimedia input in AI appli
 To conclude, Task 2 gave me practical knowledge in a technology that is shaping the future of hands-free, voice-driven interfaces. It taught me the power of combining Python with simple yet robust libraries to perform meaningful audio processing tasks. This is a skill I can apply to future projects in accessibility, voice assistants, transcription tools, and smart applications.
 
 OUTPUT:
+<img width="393" height="118" alt="Image" src="https://github.com/user-attachments/assets/b998b165-5af4-45ca-9874-c5ab52f4c914" />
